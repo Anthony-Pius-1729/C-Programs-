@@ -27,8 +27,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/C_Programming",
-      "program": "f:/C_Programming/build/Debug/outDebug",
+      "cwd": "f:/C_Programming/Easy",
+      "program": "f:/C_Programming/Easy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
