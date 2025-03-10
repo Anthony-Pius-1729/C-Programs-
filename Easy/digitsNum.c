@@ -5,7 +5,7 @@ int main (){
 
     int digits = 0, n;
 
-    printf("Enter a number");
+    printf("Enter a number\n");
 
     scanf("%d", &n);
 
@@ -14,6 +14,6 @@ int main (){
         digits++;
     }while (n !=0);
 
-    printf("The number has %d digits", digits);
+    printf("The number has %d digits\n", digits);
 
 }
